@@ -12,5 +12,5 @@
   3. Calculate the distance with the Google Distance Matrix API. 
   4. Calculate the distance timely after every ten seconds.
 
-To read more about how to use this app this [artice](https://codinginfinite.com/location-distance-tracking-app).
+To read more about how to use this app this [artice](https://codinginfinite.com/android-location-distance-tracking-app).
   
