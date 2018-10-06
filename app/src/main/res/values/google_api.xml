@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="google_map_api_key">AIzaSyDLJaKBtmH2CGHV8tJfHV_HxtvNMRGNuxk</string>
-    <string name="google_distance_api">AIzaSyDRYECWlC51_AwFs82tFatV93Y4LU6gfL0</string>
+    <string name="google_map_api_key">AIzaSyDLJaKBtmH******_HxtvNMRGNuxk</string>
+    <string name="google_distance_api">AIzaSyDRYECWlC********Y4LU6gfL0</string>
 </resources>
